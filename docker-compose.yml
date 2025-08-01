@@ -12,3 +12,5 @@ services:
       - PORT=8080
     volumes:
       - ./.env:/app/.env
+
+      
